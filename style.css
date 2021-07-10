@@ -1,0 +1,61 @@
+body{
+    background-color: #D62AD0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.container{
+    background-color: #ffffff;
+    left: 25%;
+    top: 10%;
+    position: absolute;
+    padding: 30px;
+    width:700px;
+    height: 800px;
+}
+h1{
+    margin-bottom: 70px;
+}
+#formsheet{
+    width: 92%;
+    min-height: 60vh;
+    padding-bottom: ;
+   
+}
+.class1 input, .class2 input, .class3 input, .class4 input{
+    width: 50%;
+    height: 30px;
+    margin: 20px 0;
+    
+}
+.class1 label, .class2 label, .class3 label, .class4 label, .class5 label{
+    font-size: 20px;
+    
+}
+#comment{
+    width: 90%;
+    border-radius: 5px #ffffff;
+    
+}
+#comment:hover{
+    border-color: #D62AD0;
+    
+}
+.class6 input{
+    width: 22%;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    background-color: #D62AD0;
+    border: 1px solid #D62AD0;
+   
+}
+
+input:hover{
+    border-color: #D62AD0;
+    border-radius: 7px;
+}
+
+ 
